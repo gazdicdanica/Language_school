@@ -1,0 +1,18 @@
+1;admin;Danica;Gazdić;Ž;2001-05-18;0691852001;JNA 12;danica;danica
+45;sekretar;Jovana;Lazic;Ž;1985-07-19;0648376225;Novosadska;jovana;JLbIqSsWDe;Osnovne akademske studije;7;0.0;2021-07-26
+69;sekretar;Lazar;Popovic;M;1970-10-15;0669902856;Dimitrija Avramovica;lazar;Ze1WOqWdqh;Strukovne studije;14;0.0;2021-08-29
+82;predavac;Milica;Prostran;Ž;1974-02-01;0633829467;Staparski put;milica;QvgsmiA8R4;Master akademske studije;17;0.0;59,96;13;2021-08-29
+33;predavac;Predrag;Stanic;M;1997-04-09;0653920765;Nisavska;predrag;2thKhUOUM3;Strukovne studije;4;0.0;87;8;2021-08-29
+90;predavac;Jovana;Milosevic;Ž;1982-11-11;0623019645;Skolska;jovana;WeDdSakEx4;Osnovne akademske studije;10;0.0;46;48;2021-08-29
+49;predavac;Dragan;Jovanovic;M;1992-08-13;0692017564;Valjevska;dragan;QTuHSjir2u;Doktorske studije;3;0.0;95;83;2021-08-29
+66;predavac;Matija;Pavic;M;1966-12-25;0613002999;Sestara Ninkov;matija;DgPpV9CRbQ;Osnovne akademske studije;19;0.0;23,28;44;2021-08-29
+18;predavac;Valerija;Predin;Ž;1997-09-18;0602337777;Apatinski put;valerija;sac9nWk7NA;Master akademske studije;5;0.0;68;46;2021-08-29
+88;ucenik;Darko;Stanic;M;2001-02-03;065443388;JNA;darkostanic88;fPbMOt4oD6;59,96;59
+93;ucenik;Dragana;Vukelic;Ž;2000-08-02;0602449338;Milosa Obilica;draganavukelic93;oXB6p2GL7P;28;28
+92;ucenik;Milana;Matic;Ž;1993-04-19;0610068263;Bulevar Oslobodjenja;milanamatic92;vA1t4ak83s;87;/
+24;ucenik;Valentina;Katacic;Ž;2005-01-22;0609200567;Kanarinska;valentinakatacic24;MI406nbpCa;87,96;87
+29;ucenik;Matija;Radjenovic;M;2002-09-17;0615590234;JNA;matijaradjenovic29;zVGUjF93TF;68;/
+39;ucenik;Marko;Kolovic;M;1977-12-04;0692846774;Bulevar Evrope;markokolovic39;lQ0TQg6LMh;96;/
+60;ucenik;Sara;Sretic;Ž;2007-07-12;0661204980;Vrsacka;sarasretic60;GSSX8gNjEU;23;23
+46;ucenik;Marija;Kukuruzar;Ž;1993-10-09;06689999999;Majska;marijakukuruzar46;0BdrPIfNPy;59;59
+69;ucenik;Petar;Petrovic;M;1995-07-22;0659284776;Strumicka;petarpetrovic69;Zjul9jzFpq;95;/

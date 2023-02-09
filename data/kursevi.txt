@@ -1,0 +1,8 @@
+95;Napredni;83
+96;Napredni;13
+87;Osnovni;8
+59;Osnovni;13
+68;Srednji;46
+28;Srednji;44
+46;Osnovni;48
+23;Osnovni;44

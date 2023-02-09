@@ -1,0 +1,7 @@
+13;Ruski jezik
+48;Španski jezik
+83;Kineski jezik
+44;Italijanski jezik
+3;Engleski jezik
+46;Francuski jezik
+8;Nemački jezik
